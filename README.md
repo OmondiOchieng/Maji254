@@ -1,8 +1,3 @@
-Here’s a clean, professional README.md you can use for your project 👇
-
-
----
-
 💧 MajiAlert – Water & Sanitation USSD System
 
 MajiAlert is a simple USSD-based platform that allows users to report water and sanitation issues and find safe water points using basic mobile phones.
