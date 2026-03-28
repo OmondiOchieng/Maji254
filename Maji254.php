@@ -12,7 +12,7 @@ $text        = $_POST["text"];
 $level = explode("*", $text);
 
 if ($text == "") {
-    $response  = "CON Welcome to MajiAlert - Water & Sanitation Service \n";
+    $response  = "CON Welcome to Maji254 Alert - Water & Sanitation Service \n";
     $response .= "1. Report Issue \n";
     $response .= "2. Find Safe Water Point \n";
     $response .= "3. Water & Hygiene Tips";
